@@ -1,5 +1,7 @@
 # Together
 
+[![Go](https://github.com/OriPekelman/go-together/actions/workflows/go.yml/badge.svg)](https://github.com/OriPekelman/go-together/actions/workflows/go.yml)
+
 `together` can run multiple processes, together, such as that they live and die together. It is useful in the case you have a a supervising process that watches a single PID. This can be specifically interesting for container runtimes that expect a single process to run.
 
 It is in a way an 'anti-supervisor' it doesn't restart processes but rather makes sure that all processes die together.
