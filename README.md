@@ -30,7 +30,7 @@ Will spawn two processes, when the first one exits after 5 seconds its sibling w
 
 For the moment, grab the executable built with the github action :
 ```
-wget https://github.com/OriPekelman/go-together/releases/download/v0.0.0/together
+wget https://github.com/OriPekelman/go-together/releases/download/v0.0.1/together
 chmod +x together
 ```
 and put it somewher reasonable.
