@@ -1,5 +1,3 @@
-// pkg/together/together.go
-
 package together
 
 import (
